@@ -1,7 +1,7 @@
 # AI_Generated_Music_World_Anthems
 Using AI to generate novel music. Use national anthem instrumentals as training data aiming for a sort of AI-generated 'World Anthem'. At least one the robots will like. Mainly based on music generating AI I worked on previously. 
 
-Training Data --- Downloaded national anthems from sites listed below. Anthems are public domain, so good to use as training data. Use two main audio file types: MP3 and MIDI.
+Training Data --- Downloaded national anthems from sites listed below. Anthems are public domain, so good to use as training data. Use two main audio file types: MP3 and MIDI. Include zipped and unzipped versions for MIDI folder.
 
 Clearly longer algorithms will have more impact on output. Could splice them to equal-length samples for a more equal distributions. We just use the full anthems here. 
 
